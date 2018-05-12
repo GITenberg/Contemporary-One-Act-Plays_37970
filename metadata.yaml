@@ -1,0 +1,160 @@
+_repo: Contemporary-One-Act-Plays_37970
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Lewis, B. Roland (Benjamin Roland)
+    alias: Lewis, Benjamin Roland
+    birthdate: 1884
+    gutenberg_agent_id: '39159'
+    url: http://www.gutenberg.org/2009/agents/39159
+  contributors:
+  - agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+  - agent_name: Sudermann, Hermann
+    aliases:
+    - Sunderman, Hermann
+    - Sudermann, H. (Hermann)
+    - Sudermann, Herman
+    birthdate: &id001 1857
+    deathdate: 1928
+    gutenberg_agent_id: '2769'
+    url: http://www.gutenberg.org/2009/agents/2769
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
+  - agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, James Matthew
+    - Barrie, J.M.
+    birthdate: &id002 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+  - agent_name: Green, Paul
+    alias: Green, Paul Eliot
+    birthdate: 1894
+    deathdate: 1981
+    gutenberg_agent_id: '39167'
+    url: http://www.gutenberg.org/2009/agents/39167
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Green_(playwright)
+  - agent_name: Marks, Jeannette Augustus
+    alias: Marks, Jeanette Augustus
+    birthdate: &id003 1875
+    deathdate: 1964
+    gutenberg_agent_id: '2559'
+    url: http://www.gutenberg.org/2009/agents/2559
+  - agent_name: Middleton, George
+    birthdate: 1880
+    deathdate: 1967
+    gutenberg_agent_id: '7384'
+    url: http://www.gutenberg.org/2009/agents/7384
+    wikipedia: http://en.wikipedia.org/wiki/George_Middleton_(playwright)
+  - agent_name: Bornstead, Beulah
+    birthdate: 1896
+    gutenberg_agent_id: '39172'
+    url: http://www.gutenberg.org/2009/agents/39172
+  - agent_name: Thurston, Althea
+    gutenberg_agent_id: '39162'
+    url: http://www.gutenberg.org/2009/agents/39162
+  - agent_name: Gregory, Lady
+    aliases:
+    - Persse, Isabella Augusta
+    - Gregory, Isabella Augusta Persse, Lady
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+  - agent_name: Hervieu, Paul
+    alias: Hervieu, Paul Ernest
+    birthdate: *id001
+    deathdate: 1915
+    gutenberg_agent_id: '39169'
+    url: http://www.gutenberg.org/2009/agents/39169
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Hervieu
+  - agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tchekhov, Anton
+    - Chekov, Anton Pavlovich
+    - Чехов, Антон Павлович
+    - Tshehov, Anton
+    birthdate: *id002
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+  - agent_name: Kreymborg, Alfred
+    birthdate: 1883
+    deathdate: &id004 1966
+    gutenberg_agent_id: '35239'
+    url: http://www.gutenberg.org/2009/agents/35239
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Kreymborg
+  - agent_name: Hopkins, Arthur
+    alias: Hopkins, Arthur Melancthon
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '39168'
+    url: http://www.gutenberg.org/2009/agents/39168
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Hopkins
+  - agent_name: Crocker, Bosworth
+    alias: Crocker, Mary Arnold
+    birthdate: 1882
+    deathdate: 1946
+    gutenberg_agent_id: '39166'
+    url: http://www.gutenberg.org/2009/agents/39166
+  - agent_name: MacKaye, Percy
+    alias: Mackaye, Percy
+    birthdate: *id003
+    deathdate: 1956
+    gutenberg_agent_id: '7390'
+    url: http://www.gutenberg.org/2009/agents/7390
+    wikipedia: http://en.wikipedia.org/wiki/Percy_MacKaye
+  - agent_name: Pinski, David
+    alias: Pinsky, David
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '39171'
+    url: http://www.gutenberg.org/2009/agents/39171
+    wikipedia: http://en.wikipedia.org/wiki/David_Pinski
+  - agent_name: Wolff, Oscar Monroe
+    birthdate: 1876
+    gutenberg_agent_id: '39170'
+    url: http://www.gutenberg.org/2009/agents/39170
+  - agent_name: Pillot, Eugene
+    alias: Pillot, Joseph Eugene
+    birthdate: 1886
+    deathdate: *id004
+    gutenberg_agent_id: '39164'
+    url: http://www.gutenberg.org/2009/agents/39164
+covers:
+- cover_type: archival
+  image_path: 37970-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2011-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37970'
+  lccn: '22012773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Drama -- Collections'
+- !lcsh 'One-act plays'
+tableOfContents: Introduction -- The twelve-pound look / Sir James M. Barrie -- Tradition
+  / George Middleton -- The exchange / Althea Thurston -- Sam Average / Percy Mackaye
+  -- Hyacinth Halvey / Lady Augusta Gregory -- The gazing globe / Eugene Pillot --
+  The boor / Anton Tchekov -- The last straw / Bosworth Crocker -- Manikin and Minikin
+  / Alfred Kreymborg -- White dresses / Paul Greene -- Moonshine / Arthur Hopkins
+  -- Modesty / Paul Hervieu -- The deacon's hat / Jeannette Marks -- Where but in
+  America / Oscar M. Wolff -- A dollar / David Pinski -- The diabolical circle / Beulah
+  Bornstead -- The far-away princess / Hermann Sudermann -- The stronger / August
+  Strindberg.
+title: Contemporary One-Act Plays
+url: http://www.gutenberg.org/ebooks/37970
