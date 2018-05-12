@@ -20,7 +20,7 @@ contributor:
     - Sunderman, Hermann
     - Sudermann, H. (Hermann)
     - Sudermann, Herman
-    birthdate: &id001 1857
+    birthdate: 1857
     deathdate: 1928
     gutenberg_agent_id: '2769'
     url: http://www.gutenberg.org/2009/agents/2769
@@ -29,7 +29,7 @@ contributor:
     aliases:
     - Barrie, James Matthew
     - Barrie, J.M.
-    birthdate: &id002 1860
+    birthdate: 1860
     deathdate: 1937
     gutenberg_agent_id: '10'
     url: http://www.gutenberg.org/2009/agents/10
@@ -43,7 +43,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Paul_Green_(playwright)
   - agent_name: Marks, Jeannette Augustus
     alias: Marks, Jeanette Augustus
-    birthdate: &id003 1875
+    birthdate: 1875
     deathdate: 1964
     gutenberg_agent_id: '2559'
     url: http://www.gutenberg.org/2009/agents/2559
@@ -71,7 +71,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
   - agent_name: Hervieu, Paul
     alias: Hervieu, Paul Ernest
-    birthdate: *id001
+    birthdate: 1857
     deathdate: 1915
     gutenberg_agent_id: '39169'
     url: http://www.gutenberg.org/2009/agents/39169
@@ -82,14 +82,14 @@ contributor:
     - Chekov, Anton Pavlovich
     - Чехов, Антон Павлович
     - Tshehov, Anton
-    birthdate: *id002
+    birthdate: 1860
     deathdate: 1904
     gutenberg_agent_id: '708'
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
   - agent_name: Kreymborg, Alfred
     birthdate: 1883
-    deathdate: &id004 1966
+    deathdate: 1966
     gutenberg_agent_id: '35239'
     url: http://www.gutenberg.org/2009/agents/35239
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Kreymborg
@@ -108,7 +108,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39166
   - agent_name: MacKaye, Percy
     alias: Mackaye, Percy
-    birthdate: *id003
+    birthdate: 1875
     deathdate: 1956
     gutenberg_agent_id: '7390'
     url: http://www.gutenberg.org/2009/agents/7390
@@ -127,13 +127,15 @@ contributor:
   - agent_name: Pillot, Eugene
     alias: Pillot, Joseph Eugene
     birthdate: 1886
-    deathdate: *id004
+    deathdate: 1966
     gutenberg_agent_id: '39164'
     url: http://www.gutenberg.org/2009/agents/39164
 covers:
 - cover_type: archival
   image_path: 37970-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37970#Contemporary-One-Act-Plays
 gutenberg_issued: '2011-11-10'
 gutenberg_type: Text
 identifiers:
